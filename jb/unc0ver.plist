@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 						<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 						<plist version="1.0">
@@ -32,9 +33,9 @@
 						           <key>metadata</key>    
 						           <dict>
 						               <key>bundle-identifier</key>
-						               <string>science.xnu.undecimus</string>
+						               <string>ipa-apps.me.Unc0verbeta</string>
 						               <key>bundle-version</key>
-						               <string>5.3.1</string>
+						               <string>7.4.1</string>
 						               <key>kind</key>
 						               <string>software</string>
 						               <key>title</key>
