@@ -20,7 +20,7 @@
 						                   <key>needs-shine</key>
 						                   <true/>
 						                   <key>url</key>
-						                   <stringhttps://www.kurdstore.tk/assets/icon/icon.png</string>
+						                   <string>https://kurdstore.info/assets/icon/icon.png</string>
 						                </dict>
 										<dict>
 										<key>kind</key>
@@ -33,7 +33,7 @@
 						           <key>metadata</key>   
 						           <dict>
 						               <key>bundle-identifier</key>
-						               <string>ipa-apps.me.ChimeraJB</string>
+						               <string>kurd-ari.ChimeraJB</string>
 						               <key>bundle-version</key>
 						               <string>7.4.1</string>
 						               <key>kind</key>
